@@ -18,12 +18,14 @@ If you are running the project on a local environment, make sure to install all 
 
 To install them, it can be done using the PIP package manager.
 
+```bash
 !pip install os-sys
 !pip install numpy
 !pip install pandas
 !pip install seaborn
 !pip install matplotlib
 !pip install -U scikit-learn
+```
 
-You can try without the '!'
+*You can try without the '!'*
 
